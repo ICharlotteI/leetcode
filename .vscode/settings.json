@@ -1,0 +1,9 @@
+{
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.enable": {
+        "*": false
+    },
+    "editor.wordWrap": "wordWrapColumn",
+    "workbench.editor.wrapTabs": true,
+    "github.copilot.editor.enableAutoCompletions": false
+}
